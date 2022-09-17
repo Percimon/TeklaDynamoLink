@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32811.315
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TeklaLink", "TeklaLink\TeklaLink.csproj", "{71EB4291-DA56-4701-B92E-A009895C7E12}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{71EB4291-DA56-4701-B92E-A009895C7E12}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{71EB4291-DA56-4701-B92E-A009895C7E12}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{71EB4291-DA56-4701-B92E-A009895C7E12}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{71EB4291-DA56-4701-B92E-A009895C7E12}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B76D4A98-F59F-4964-9A20-3AE75496E089}
+	EndGlobalSection
+EndGlobal
